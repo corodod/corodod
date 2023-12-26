@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm beginner Java Backend Developer.
+
+I've ended some programming courses:
+[Algo for Students Tinkoff](https://mail.google.com/mail/u/0?ui=2&ik=98f170031b&attid=0.1&permmsgid=msg-f:1769753060002160982&th=188f6d081196e156&view=att&disp=inline)
 <!--
 **corodod/corodod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
